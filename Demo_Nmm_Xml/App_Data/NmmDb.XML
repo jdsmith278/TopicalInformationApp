@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Breweries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Brewery>
+    <Id>1</Id>
+    <Name>Paesano's Pizza</Name>
+    <Address>447 E Front ST</Address>
+    <City>Traverse City</City>
+    <State>MI</State>
+    <Zip>49686</Zip>
+    <Phone>(231) 941-5740</Phone>
+    <URL>paesanospizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>2</Id>
+    <Name>Dino's Pizza</Name>
+    <Address>543 E Eight St</Address>
+    <City>Traverse City</City>
+    <State>MI</State>
+    <Zip>49686</Zip>
+    <Phone>(231) 946-3400</Phone>
+    <URL>tcdinospizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>3</Id>
+    <Name>Buccilli's Pizza</Name>
+    <Address>2949 W Houghton Lake Dr</Address>
+    <City>Houghton Lake</City>
+    <State>MI</State>
+    <Zip>48629</Zip>
+    <Phone>(989) 366-5374</Phone>
+    <URL>cedarrusticinn.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>4</Id>
+    <Name>A Papano's Pizza</Name>
+    <Address>334 Main St</Address>
+    <City>Frankfort</City>
+    <State>MI</State>
+    <Zip>49635</Zip>
+    <Phone>(231) 352-6700</Phone>
+    <URL>papanos.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>5</Id>
+    <Name>Fricano's Pizza Tavern</Name>
+    <Address>1400 Fulton St</Address>
+    <City>Traverse City</City>
+    <State>MI</State>
+    <Zip>49417</Zip>
+    <Phone>(616) 842-8640</Phone>
+    <URL>fricanospizzatavern.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>6</Id>
+    <Name>Papa K's Pizza</Name>
+    <Address>318 South Division Street</Address>
+    <City>Bellaire</City>
+    <State>MI</State>
+    <Zip>49615</Zip>
+    <Phone>(231) 533-6844</Phone>
+    <URL>papakspizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>7</Id>
+    <Name>Luciano's Ristornati</Name>
+    <Address>103 W Ludington Ave</Address>
+    <City>Ludington</City>
+    <State>MI</State>
+    <Zip>49431</Zip>
+    <Phone>(231) 843-2244</Phone>
+    <URL>lucianosristoranti.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>8</Id>
+    <Name>SunShine's Pizza</Name>
+    <Address>35 E Lowell St</Address>
+    <City>Pentwater</City>
+    <State>MI</State>
+    <Zip>49449</Zip>
+    <Phone>(231) 869-3444</Phone>
+    <URL>N/A</URL>
+  </Brewery>
+  <Brewery>
+    <Id>9</Id>
+    <Name>Hart Pizza</Name>
+    <Address>105 E Main St</Address>
+    <City>Hart</City>
+    <State>MI</State>
+    <Zip>49420</Zip>
+    <Phone>(231) 873-4434</Phone>
+    <URL>hartpizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>10</Id>
+    <Name>Market 22</Name>
+    <Address>497 E Harbor Hwy</Address>
+    <City>Maple City</City>
+    <State>MI</State>
+    <Zip>49664</Zip>
+    <Phone>(231) 228-6422</Phone>
+    <URL>market22mi.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>11</Id>
+    <Name>Silver Lake Pizza Factory</Name>
+    <Address>7854 W Hazel Rd</Address>
+    <City>Mears</City>
+    <State>MI</State>
+    <Zip>49436</Zip>
+    <Phone>(231) 873-1850</Phone>
+    <URL>facebook.com/SilverLakePizzaFactory/</URL>
+  </Brewery>
+  <Brewery>
+    <Id>12</Id>
+    <Name>1 Kama Mama's Family Restaurant and Pizzeria</Name>
+    <Address>5122 Main St</Address>
+    <City>Onekama</City>
+    <State>MI</State>
+    <Zip>49675</Zip>
+    <Phone>(231) 889-7166</Phone>
+    <URL>1-kama-mamas.business.site</URL>
+  </Brewery>
+  <Brewery>
+    <Id>13</Id>
+    <Name>Ciceros Pizza</Name>
+    <Address>2408 M-137</Address>
+    <City>Interlochen</City>
+    <State>MI</State>
+    <Zip>49643</Zip>
+    <Phone>(231) 276-6324</Phone>
+    <URL>cicerospizzainterlochen.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>14</Id>
+    <Name>Stone Oven</Name>
+    <Address>6551 First St</Address>
+    <City>Lake Ann</City>
+    <State>MI</State>
+    <Zip>49650</Zip>
+    <Phone>(231) 275-8520</Phone>
+    <URL>stoneovenla.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>15</Id>
+    <Name>Riverfront Pizza and Deli</Name>
+    <Address>6281 River Rd</Address>
+    <City>Glen Arbor</City>
+    <State>MI</State>
+    <Zip>49636</Zip>
+    <Phone>(231) 334-3876</Phone>
+    <URL>riverfrontpizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>16</Id>
+    <Name>Red Top Pasteria</Name>
+    <Address>112 E. Phillip St</Address>
+    <City>Lake Leelanau</City>
+    <State>MI</State>
+    <Zip>49653</Zip>
+    <Phone>(231) 994-2733</Phone>
+    <URL>facebook.com/redtop231/</URL>
+  </Brewery>
+  <Brewery>
+    <Id>17</Id>
+    <Name>Roman Wheel Pizza and Subs</Name>
+    <Address>116 N St Joseph St</Address>
+    <City>Suttons Bay</City>
+    <State>MI</State>
+    <Zip>49682</Zip>
+    <Phone>(231) 271-4176</Phone>
+    <URL>romanwheelpizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>18</Id>
+    <Name>Hearth and Vine Cafe at Black Star Farms</Name>
+    <Address>10844 E Revold Rd</Address>
+    <City>Suttons Bay</City>
+    <State>MI</State>
+    <Zip>49682</Zip>
+    <Phone>(231) 944-1297</Phone>
+    <URL>blackstarfarms.com/hearthandvine/</URL>
+  </Brewery>
+  <Brewery>
+    <Id>19</Id>
+    <Name>Stormcloud Brewing Company</Name>
+    <Address>303 Main St.</Address>
+    <City>Frankfort</City>
+    <State>MI</State>
+    <Zip>49635</Zip>
+    <Phone>(231) 352-0118</Phone>
+    <URL>stormcloudbrewing.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>20</Id>
+    <Name>Pangea's Pizza</Name>
+    <Address>135 E Front St</Address>
+    <City>Traverse City</City>
+    <State>MI</State>
+    <Zip>49684</Zip>
+    <Phone>(231) 946-9800</Phone>
+    <URL>pangeaspizza.com</URL>
+  </Brewery>
+  <Brewery>
+    <Id>21</Id>
+    <Name>Crusted Creations</Name>
+    <Address>532 W Fourteenth St</Address>
+    <City>Traverse City</City>
+    <State>MI</State>
+    <Zip>49684</Zip>
+    <Phone>(231) 947-2626</Phone>
+    <URL>crustedcreations.com</URL>
+  </Brewery>
+  
+</Breweries>
